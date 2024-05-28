@@ -290,4 +290,3 @@ class Settings {
         this.$settings.show();
     }
 }
-
